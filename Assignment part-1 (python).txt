@@ -1,0 +1,3 @@
+
+Q1. Why do we call Python as a general purpose and high-level programming language?
+Ans 1
